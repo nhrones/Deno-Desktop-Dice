@@ -1,7 +1,10 @@
 # Deno Desktop DiceGame
 
-This is an example DWM app, that was bundled with Wpack, a util by the same authors.    
+This is a compiled DWM-ReactiveUI Dice-Game app.     
+It was compiled using `Wpack`.    
 https://github.com/deno-windowing/wpack    
-djdev and loadin9    
+Thanks - djdev, loadin9 and lino-levan    
 
-Download DiceGame.exe and then execute it.
+Download and run the DiceGame.exe executable.
+
+Tested to work on Win11, and Mac
